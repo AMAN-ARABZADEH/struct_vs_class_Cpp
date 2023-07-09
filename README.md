@@ -1,8 +1,8 @@
 # Struct vs Class in C++
 Examples and explanations of struct VS class in C++ with examples.
 
-This repository provides examples and explanations of the differences between struct and class in C++. 
-It aims to help beginners understand the concepts and choose the appropriate one for their programming needs.
+This repository I provide examples and explanations of the differences between struct and class in C++. 
+My aim is to help beginners understand the concepts and choose the appropriate one for their programming needs.
 
 # Table of Contents
 - [Struct vs Class](#struct-vs-class)
