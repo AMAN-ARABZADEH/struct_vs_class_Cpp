@@ -10,25 +10,12 @@
  *  https://github.com/AMAN-ARABZADEH/struct_vs_class_Cpp
  */
 
-
 // Resources:
 
 // Wikipedia - Encapsulation: https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
 // GeeksforGeeks - Struct in C++: https://www.geeksforgeeks.org/structures-in-cpp/
 // C++ Primer by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo (Book)
 // The C++ Programming Language by Bjarne Stroustrup (Book)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -74,6 +61,8 @@ public:
     }
 };
 
+
+
 // Struct Vehicle:
 // - Groups related data together.
 // - Provides a convenient way to store and pass around data as a single unit.
@@ -83,6 +72,9 @@ struct Vehicle {
     std::string color;  // Public data member
     int wheels;         // Public data member
 };
+
+
+
 
 
 int main() {
@@ -96,6 +88,10 @@ int main() {
 
     std::cout << std::endl;
 
+
+
+
+    
     // Using the Vehicle struct
     Vehicle myVehicle;    // Creating an instance of Vehicle
     myVehicle.type = "Motorcycle";  // Directly assigning value to public data member
