@@ -4,14 +4,14 @@ Examples and explanations of struct VS class in C++ with examples.
 This repository provides examples and explanations of the differences between struct and class in C++. 
 It aims to help beginners understand the concepts and choose the appropriate one for their programming needs.
 
-## Table of Contents
+# Table of Contents
 - [Struct vs Class](#struct-vs-class)
 - [Car Class](#car-class)
 - [Vehicle Struct](#vehicle-struct)
 - [Usage](#usage)
 - [Resources](#resources)
 
-## Struct vs Class
+# Struct vs Class
 
 In C++, both struct and class are used to define custom data types, but they have some differences in terms of default member accessibility and intended use.
 
@@ -28,13 +28,13 @@ In C++, both struct and class are used to define custom data types, but they hav
   - Allows controlled access to its private members through public member functions.
   - Enhances data integrity and prevents unauthorized modifications.
 
-## Car Class
+# Car Class
 
 The Car class is an example of using a class to demonstrate encapsulation. 
 It has private data members such as brand, model, and year, which can only be accessed or modified through public member functions. 
 Getter and setter methods provide controlled access to retrieve and modify the private data members, ensuring data integrity and providing a consistent interface.
 
-# Class Car:
+## Class Car:
 - The Car class demonstrates the concept of encapsulation by utilizing private data members and public member functions.
 - Encapsulation refers to the bundling of data (private members) and methods (public member functions) within a single entity, the class.
 - The private data members of the Car class, such as brand, model, and year, are accessible only within the class itself.
@@ -44,14 +44,14 @@ Getter and setter methods provide controlled access to retrieve and modify the p
 - The member functions serve as an abstraction layer, encapsulating the implementation details of the class and hiding the complexity of manipulating its internal data.
 - Using the public member functions ensures that the data is accessed and modified in a controlled and valid manner, enhancing data integrity and preventing potential inconsistencies.
 
-## Vehicle Struct
+# Vehicle Struct
 
 The Vehicle struct is an example of using a struct to group related data together. 
 It includes public data members such as type, color, and wheels. 
 Structs are typically used when you need a simple way to store and pass around data as a single unit. 
 In the case of the Vehicle struct, it allows you to store and access information about the type of vehicle, its color, and the number of wheels it has.
 
-# Struct Vehicle:
+## Struct Vehicle:
 - Groups related data together.
 - Provides a convenient way to store and pass around data as a single unit.
 - In this case, the Vehicle struct includes data members such as type, color, and wheels, which are all related to describing a vehicle.
@@ -61,17 +61,12 @@ In the case of the Vehicle struct, it allows you to store and access information
 - Overall, the Vehicle struct provides a compact and efficient way to organize and work with related data elements in a single entity.
 
 
-## Usage
+# Usage
 
 To use the examples in this repository, you can follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/AMAN-ARABZADEH/struct_vs_class_Cpp
-This will compile the code and execute the resulting executable.
-
-2. Observe the output to see the differences in action between struct and class.
 ## Resources
 
 - [Wikipedia - Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
