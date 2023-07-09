@@ -58,7 +58,7 @@ This will compile the code and execute the resulting executable.
 ## Resources
 
 - [Wikipedia - Encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-- [GeeksforGeeks - Struct in C++](https://www.geeksforgeeks.org/struct-in-cpp/)
+- [GeeksforGeeks - Struct in C++](https://www.geeksforgeeks.org/structures-in-cpp/)
 - [C++ Primer by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo](https://www.amazon.com/C-Primer-Stanley-B-Lippman/dp/0321714113)
 - [The C++ Programming Language by Bjarne Stroustrup](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
 
