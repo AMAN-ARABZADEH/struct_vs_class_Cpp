@@ -6,7 +6,7 @@
  * Auther: Aman Arabzadeh
  * Date: 2023-07-09
  *  Examples and explanations of struct VS class in C++ for Beginners
- *
+ *  Read more here: 
  *  https://github.com/AMAN-ARABZADEH/struct_vs_class_Cpp
  */
 
