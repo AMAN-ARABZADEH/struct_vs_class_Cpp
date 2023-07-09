@@ -34,15 +34,15 @@ The Car class is an example of using a class to demonstrate encapsulation.
 It has private data members such as brand, model, and year, which can only be accessed or modified through public member functions. 
 Getter and setter methods provide controlled access to retrieve and modify the private data members, ensuring data integrity and providing a consistent interface.
 
-// Class Car:
-// - The Car class demonstrates the concept of encapsulation by utilizing private data members and public member functions.
-// - Encapsulation refers to the bundling of data (private members) and methods (public member functions) within a single entity, the class.
-// - The private data members of the Car class, such as brand, model, and year, are accessible only within the class itself.
-// - By making the data members private, direct access from outside the class is restricted, ensuring data integrity and preventing unauthorized modifications.
-// - The public member functions of the Car class, such as getBrand(), getModel(), getYear(), setBrand(), setModel(), and setYear(), provide a consistent interface to interact with the class.
-// - These member functions allow controlled access to the private data members, enabling users to retrieve and modify the values in a controlled manner.
-// - The member functions serve as an abstraction layer, encapsulating the implementation details of the class and hiding the complexity of manipulating its internal data.
-// - Using the public member functions ensures that the data is accessed and modified in a controlled and valid manner, enhancing data integrity and preventing potential inconsistencies.
+# Class Car:
+- The Car class demonstrates the concept of encapsulation by utilizing private data members and public member functions.
+- Encapsulation refers to the bundling of data (private members) and methods (public member functions) within a single entity, the class.
+- The private data members of the Car class, such as brand, model, and year, are accessible only within the class itself.
+- By making the data members private, direct access from outside the class is restricted, ensuring data integrity and preventing unauthorized modifications.
+  - The public member functions of the Car class, such as getBrand(), getModel(), getYear(), setBrand(), setModel(), and setYear(), provide a consistent interface to interact with the class.
+- These member functions allow controlled access to the private data members, enabling users to retrieve and modify the values in a controlled manner.
+- The member functions serve as an abstraction layer, encapsulating the implementation details of the class and hiding the complexity of manipulating its internal data.
+- Using the public member functions ensures that the data is accessed and modified in a controlled and valid manner, enhancing data integrity and preventing potential inconsistencies.
 
 ## Vehicle Struct
 
@@ -51,14 +51,14 @@ It includes public data members such as type, color, and wheels.
 Structs are typically used when you need a simple way to store and pass around data as a single unit. 
 In the case of the Vehicle struct, it allows you to store and access information about the type of vehicle, its color, and the number of wheels it has.
 
-// Struct Vehicle:
-// - Groups related data together.
-// - Provides a convenient way to store and pass around data as a single unit.
-// - In this case, the Vehicle struct includes data members such as type, color, and wheels, which are all related to describing a vehicle.
-// - By grouping these data members together in the Vehicle struct, it becomes easier to manage and manipulate the data as a cohesive entity.
-// - The Vehicle struct allows you to store information about the type of vehicle, its color, and the number of wheels it has in one place.
-// - This makes it simpler to pass the entire Vehicle object to functions or methods that need access to all of its data.
-// - Overall, the Vehicle struct provides a compact and efficient way to organize and work with related data elements in a single entity.
+# Struct Vehicle:
+- Groups related data together.
+- Provides a convenient way to store and pass around data as a single unit.
+- In this case, the Vehicle struct includes data members such as type, color, and wheels, which are all related to describing a vehicle.
+- By grouping these data members together in the Vehicle struct, it becomes easier to manage and manipulate the data as a cohesive entity.
+- The Vehicle struct allows you to store information about the type of vehicle, its color, and the number of wheels it has in one place.
+- This makes it simpler to pass the entire Vehicle object to functions or methods that need access to all of its data.
+- Overall, the Vehicle struct provides a compact and efficient way to organize and work with related data elements in a single entity.
 
 
 ## Usage
