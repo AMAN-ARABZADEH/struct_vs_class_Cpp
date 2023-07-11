@@ -73,6 +73,9 @@ To use the examples in this repository, you can follow these steps:
 - [GeeksforGeeks - Struct in C++](https://www.geeksforgeeks.org/structures-in-cpp/)
 - [C++ Primer by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo](https://www.amazon.com/C-Primer-Stanley-B-Lippman/dp/0321714113)
 - [The C++ Programming Language by Bjarne Stroustrup](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to explore the examples, experiment with the code, and deepen your understanding of the differences between struct and class in C++.
 
